@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Anonymorzz-Script
 
 You can use the [editor on GitHub](https://github.com/kruz66/Anonymorzz/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://github.com/kruz66/Anonymorzz ) and ![Image](https://img.favpng.com/2/11/12/weather-forecasting-rain-icon-png-favpng-YgZVGY0BZc3miKJQa4m8EicHb.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
